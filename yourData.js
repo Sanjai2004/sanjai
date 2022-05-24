@@ -6,7 +6,7 @@ export default {
   name: "chetan",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'am sanjai ",
 
   socials: [
     { title: "Github", link: "https://github.com/chetanverma16" },
